@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**quadeer2003/quadeer2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+quadeer2003@github:~$ neofetch
+                ::---::.                
+           -+#@@@@@@@@@@@@#+-           
+        =#@@@@@@@@@@@@@@@@@@@@#=            quadeer2003@github
+      +@@@@@@@@@@@@@@@@@@@@@@@@@@+          -------------------
+    -@@@@@**%@@@@@@@@@@@@@@%*+%@@@@-        Name: MOHAMMAD ABDUL QUADEER
+   *@@@@@+    -+=--::--=+-    =@@@@@*       OS: Pop!_OS 22.04 LTS x86_64
+  *@@@@@@+                    =@@@@@@*      Languages: Java, python3, js, cpp & 2 others
+ -@@@@@@@:                    .%@@@@@@-     Editors: code, nvim
+ %@@@@@@:                      .@@@@@@%     Shell: /bin/zsh
+ @@@@@@@                        #@@@@@@     
+.@@@@@@@                        %@@@@@@.    contact
+ @@@@@@@:                      :@@@@@@@     ------------------
+ +@@@@@@@:                    :%@@@@@@+     Email: quadeer2003@gmail.com
+  %@@@@@@@*-                -*@@@@@@@%      Linkedin: linkedin.com/in/quadeer03
+  .@@@+.:#@@@%#*        +#%@@@@@@@@@@.      Terminal portfolio: t-quadeer.vercel.app
+   .#@@@- -#@@%-        -@@@@@@@@@@#.   
+     =@@@+.             :@@@@@@@@@=     
+       =%@@@%%%.        .@@@@@@%=       
+         .+#@@@.        .@@@#+:         
+             ::          ::
+```
