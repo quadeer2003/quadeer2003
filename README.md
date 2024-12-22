@@ -1,4 +1,4 @@
-```console
+```consol
 quadeer2003@github:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                      quadeer2003@github
